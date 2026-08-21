@@ -9,3 +9,5 @@ the website has these feature
 *it also uses automatic refresh on a period of time so it does not require manual refresh
 
 this website was made using html for structure css for the colour and stuff and javascript for functionality
+also if there is no live races or the map is not loading it is probably because there isnt a race going on you can google next f1 race and see if there is one
+if there is a race going on it is my fault and ill try to fix it ill test for myself too :D
