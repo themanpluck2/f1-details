@@ -1,4 +1,11 @@
-hey this is  a website i build to let people view details of the f1 races and yeah its pretty easy no login or anything
-and i spend like 4 hr building it so yea
-i havent tested the gap and stuff like tht and the map cause its not sunday yet the time im writing this 
-but the position standing work so i hope tht works too
+F1  about utility
+
+hey so ur doing a work and its urgent but u have to keep on track of the f1 race or you dont have access to your f1 tv account this is the website i build for you
+the website has these feature
+*this website shows the driver position
+*this website shows the driver gap between drivers
+*it shows the current standing of the current f1 season
+*during the f1 race it shows the map of the circuit and the drivers on them
+*it also uses automatic refresh on a period of time so it does not require manual refresh
+
+this website was made using html for structure css for the colour and stuff and javascript for functionality
